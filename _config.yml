@@ -3,10 +3,9 @@ author: Meggzi
 email: magdalena@meggzi.com
 description: > # this means to ignore newlines until "baseurl:"
   E-learning developer diving into coding to create amazing content in the future!
-
+theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+show_excerpts: true # set to false to remove excerpts on the homepag
